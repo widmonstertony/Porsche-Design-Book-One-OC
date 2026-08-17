@@ -1,1 +1,5 @@
 .DS_Store
+._*
+*.CodexBackup-*
+*.codex-*
+EFI/OC/config.plist.*
